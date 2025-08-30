@@ -4,7 +4,8 @@
   "description": "A basic app to deploy",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "keep-alive": "node keep-alive.js"
   },
   "keywords": [
     "node",
